@@ -19,7 +19,7 @@ using namespace std;
 
 void basic_test(bool debug=false);
 
-int main(int argv, char** argc)
+int main()
 {
   cout << "\n" << endl;
 
